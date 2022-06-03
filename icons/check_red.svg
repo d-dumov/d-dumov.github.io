@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="21" height="20">
+<path style="fill:#010101; stroke:none;" d="M0 0L0 5L5 0L0 0z"/>
+<path style="fill:#ff6565; stroke:none;" d="M5 0L6 1L5 0z"/>
+<path style="fill:#ff5656; stroke:none;" d="M6.00463 0.742283C-7.25558 5.90386 2.83278 24.9404 15.9059 19.142C27.8954 13.8242 18.3634 -4.06841 6.00463 0.742283z"/>
+<path style="fill:#ff0101; stroke:none;" d="M16 0L17 1L16 0z"/>
+<path style="fill:#010101; stroke:none;" d="M17 0L20 5L21 5L21 0L17 0M18 6L17 6L9 17L5 8L11 12L16 3C14.0568 2.64481 11.9881 2.08475 9.99614 2.3179C-9.01484 4.54299 13.2965 29.1807 18.3071 11.9614C18.9091 9.89271 18.4356 8.02975 18 6z"/>
+<path style="fill:#ff0101; stroke:none;" d="M4 4L5 5L4 4z"/>
+<path style="fill:#ff6565; stroke:none;" d="M7 8L8 9L7 8z"/>
+<path style="fill:#ff7f7f; stroke:none;" d="M7 13L8 14L7 13z"/>
+<path style="fill:#010101; stroke:none;" d="M0 15L0 20L5 20L5 19L0 15M20 15L16 19L16 20L21 20L20 15z"/>
+<path style="fill:#ff6565; stroke:none;" d="M15 16L16 17L15 16M7 17L8 18L7 17M13 17L14 18L13 17z"/>
+</svg>
